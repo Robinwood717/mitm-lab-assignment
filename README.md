@@ -17,7 +17,7 @@
 
 ## Network Topology
 
-![Network Topology](docs/network-topology.svg)
+![Network Topology](network-topology.svg)
 
 ## Περιεχόμενα
 
